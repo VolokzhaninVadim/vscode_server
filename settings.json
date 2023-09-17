@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "python.defaultInterpreterPath": "usr/local/bin/python",
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.menuBarVisibility": "visible",
+    "hediet.vscode-drawio.theme": "atlas",
+    "notebook.lineNumbers": "on",
+    "python.languageServer": "Jedi",
+    "autoDocstring.docstringFormat": "numpy",
+    "autoDocstring.quoteStyle": "'''",
+    "autoDocstring.startOnNewLine": true,
+    "workbench.editorAssociations": {
+        "*.svg": "hediet.vscode-drawio-text"
+    }
+    }
